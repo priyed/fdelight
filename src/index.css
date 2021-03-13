@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;700;800;900&display=swap');
+
+@font-face {
+    font-family: "Quicksand";
+    src: url("./assets/Quicksand-Light.woff") format("woff2"),
+      url("./assets/Quicksand-Light.woff2") format("woff");
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  body {
+      font-family: 'Montserrat', sans-serif;
+      background: rgb(48, 48, 48);
+      height: 100vh;
+      background-position: center;
+      background-repeat: no-repeat;
+      overflow-x: hidden;
+  }
